@@ -1,4 +1,4 @@
-👋 Hi, I’m @davidorolin1
+👋 Hi, I’m @davidorolin1 / David
 
 👀 I’m interested in:
 - Web development, especially using Angular and React.
