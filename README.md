@@ -7,7 +7,8 @@
 
 🌱 I’m currently learning:
 - Advanced React techniques for building more dynamic and responsive web applications.
-- Data visualization using D3.js and Python's Matplotlib to better represent complex datasets in a clear and engaging manner.
+- WordPress and PHP for webs.
+- Rust.
 
 💞️ I’m looking to collaborate on:
 - Open source projects that aim to improve accessibility and usability in software applications.
