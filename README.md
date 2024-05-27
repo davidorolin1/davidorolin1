@@ -1,7 +1,7 @@
 👋 Hi, I’m @davidorolin1 / David
 
 👀 I’m interested in:
-- Web development, especially using Angular and React.
+- Web development, especially using Angular and React or WordPress.
 - Exploring data science methodologies to gain insights from large data sets.
 - AI and machine learning applications in real-world scenarios.
 
